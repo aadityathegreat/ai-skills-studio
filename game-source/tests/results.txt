@@ -1,0 +1,18 @@
+✔ reject out-of-turn, invalid, occupied, stale, and pre-join moves (1.630453ms)
+✔ win, draw, score, two-vote rematch, alternate starter, stale previous-round command (1.212574ms)
+✔ all 255168 legal first-round games reach correct terminal states (2381.735305ms)
+✔ codes use 32-symbol alphabet and consistent namespace (6.356953ms)
+✔ two isolated protocol clients sync; duplicate and out-of-turn intents cannot mutate state (64.267652ms)
+✔ third player rejected; guest reload restores reserved seat and latest board (48.10205ms)
+✔ collision retries a new room; does not overwrite the existing host (1.08341ms)
+✔ host reload restores board and seat token, guest reconnects (31.316917ms)
+✔ missing host returns an explicit error (0.495446ms)
+✔ rematch votes and alternating opening turn synchronize through protocol (109.141655ms)
+ℹ tests 10
+ℹ suites 0
+ℹ pass 10
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 2724.551035
