@@ -1,0 +1,45 @@
+AADITYA ANANTH | PROJECT GUIDE
+
+ABOUT
+First-year biomedical engineering student at UT Austin, class of 2030,
+and pre-med. Interests include lifting, tennis, policy debate and building
+practical software.
+
+PROJECTS
+
+utdining
+An app ranking UT dining options against remaining nutrition needs.
+Public TypeScript repository:
+https://github.com/aadityathegreat/utdining
+
+LiftLog
+A private offline-first strength training PWA.
+Public summary only: https://aadityathegreat.github.io/building
+
+FitCheck
+A private wardrobe PWA organized around clean, worn and laundry states.
+Public summary only: https://aadityathegreat.github.io/building
+
+Stroke-aide device for pianists
+A research device and firmware project using force sensors and a
+microcontroller. No result metrics, measured sensor data, clinical outcomes
+or rehabilitation results are claimed in this guide.
+Public firmware:
+https://github.com/aadityathegreat/stroke-fine-motor-rehab
+Public research page: https://aadityathegreat.github.io/research
+
+CONTACT
+aa228227@my.utexas.edu
+https://github.com/aadityathegreat
+https://www.linkedin.com/in/aaditya-ananth-824556391
+
+SOURCES AND SCOPE
+All personal and project facts come only from public-page excerpts supplied
+and verified by the user. Independent retrieval from this build environment
+was unavailable. Source pages:
+https://aadityathegreat.github.io/
+https://aadityathegreat.github.io/building
+https://aadityathegreat.github.io/research
+
+This is a concise project guide, not a CV or a statement of research results.
+The accompanying portfolio was built with ChatGPT Work.
